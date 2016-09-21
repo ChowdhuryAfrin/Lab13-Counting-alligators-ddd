@@ -1,0 +1,6 @@
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe.config
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.exe
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.pdb
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.pdb
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\obj\Debug\Counting alligators.csprojResolveAssemblyReference.cache

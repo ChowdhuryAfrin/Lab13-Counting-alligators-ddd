@@ -1,0 +1,18 @@
+C:\Users\PCUser\Documents\Visual Studio 2015\LAB ExerciseClass\Lab13-Counting alligators\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe.config
+C:\Users\PCUser\Documents\Visual Studio 2015\LAB ExerciseClass\Lab13-Counting alligators\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.csprojResolveAssemblyReference.cache
+C:\Users\PCUser\Documents\Visual Studio 2015\LAB ExerciseClass\Lab13-Counting alligators\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe
+C:\Users\PCUser\Documents\Visual Studio 2015\LAB ExerciseClass\Lab13-Counting alligators\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.pdb
+C:\Users\PCUser\Documents\Visual Studio 2015\LAB ExerciseClass\Lab13-Counting alligators\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.exe
+C:\Users\PCUser\Documents\Visual Studio 2015\LAB ExerciseClass\Lab13-Counting alligators\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.pdb
+C:\Users\Arif\Desktop\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe.config
+C:\Users\Arif\Desktop\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.exe
+C:\Users\Arif\Desktop\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.pdb
+C:\Users\Arif\Desktop\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe
+C:\Users\Arif\Desktop\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.pdb
+C:\Users\Arif\Desktop\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.csprojResolveAssemblyReference.cache
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe.config
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.exe
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.pdb
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.exe
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\bin\Debug\Lab13-Counting alligators.pdb
+C:\.NET Files\Console App Final Ready LAB\Lab13-Counting alligators ddd\Lab13-Counting alligators\obj\Debug\Lab13-Counting alligators.csprojResolveAssemblyReference.cache
